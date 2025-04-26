@@ -12,7 +12,7 @@ This project loads, cleans, and analyzes Yelp dataset data into a PostgreSQL dat
 
 ## Data Access
 The cleaned datasets are too large for GitHub.
-Download them from: [Google Drive Link Here]
+Download them from: https://drive.google.com/drive/folders/1oSKJzbqzE3L4A9m0vYhBVJf6iB9AL9zm?usp=sharing
 
 ## Benchmark Queries
 Sample benchmark queries provided in the notebook.
